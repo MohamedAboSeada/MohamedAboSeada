@@ -1,7 +1,6 @@
 
 # 💫 About Me:
-👋 Hi there! <br><br>I'm Mohamed Abd-Elaty, a Computer Science student at FCIS, Mansoura University. I'm a Junior Front-End Developer and Competitive Programmer on Codeforces. 🖥️💻 , 📚 I'm always eager to learn new concepts and stay updated with the latest trends in the tech industry.<br><br>Excited to connect with you!👋 Hi there! I'm Mohamed Abd-Elaty, a Computer Science student at FCIS, Mansoura University. I'm a Junior Front-End Developer and Competitive Programmer on Codeforces. 🖥️💻 , 📚 I'm always eager to learn new concepts and stay updated with the latest trends in the tech industry. Excited to connect with you!<br>
-
+👋 Hi there! <br><br>I'm Mohamed Abd-Elaty, a Computer Science student at FCIS, Mansoura University. I'm a Junior Front-End Developer and Competitive Programmer on Codeforces. 🖥️💻 , 📚 I'm always eager to learn new concepts and stay updated with the latest trends in the tech industry.<br><br>Excited to connect with you!👋
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MohamedAboSeada&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
