@@ -26,8 +26,8 @@
 
 <table width="100%" border="0">
   <tr>
-    <td width="200px">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+    <td width="250px">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
     </td>
     <td>
       <h1><strong>🏗️ Tech Stack</strong></h1>
