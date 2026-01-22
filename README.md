@@ -36,10 +36,7 @@
 </a>
 </div>
 
+<br>
+<h1><strong>🎮 Contribution Grid</strong></h1>
 
-## My GitHub Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedAboSeada/MohamedAboSeada/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohamedAboSeada/MohamedAboSeada/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MohamedAboSeada/MohamedAboSeada/output/github-snake.svg">
-</picture>
+![snake](https://github.com/MohamedAboSeada/MohamedAboSeada/blob/output/github-contribution-grid-snake.gif)
