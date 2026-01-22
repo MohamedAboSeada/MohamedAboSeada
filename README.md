@@ -32,7 +32,7 @@
     <td>
       <h1><strong>🏗️ Tech Stack</strong></h1>
       <img 
-      src="https://skillicons.dev/icons?i=androidstudio,vscode,kotlin,flutter,dart,firebase,html,css,javascript" />
+      src="https://skillicons.dev/icons?i=androidstudio,vscode,kotlin,flutter,dart,firebase,html,css,javascript,github,git" />
     </td>
   </tr>
 </table>
@@ -43,11 +43,11 @@
 
 <div align="center">
 <a href="https://github.com/MohamedAboSeada/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedAboSeada&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedAboSeada&theme=radical" />
 </a>
 <a href="https://github.com/MohamedAboSeada/github-readme-stats">
   <img align="center" 
-  height="150"
+  height="200"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAboSeada&layout=pie&theme=radical" alt="Top Langs" />
 </a>
 </div>
