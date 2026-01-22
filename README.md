@@ -22,22 +22,6 @@
   </tr>
 </table>
 
----
-
-<table width="100%" border="0">
-  <tr>
-    <td width="250px">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
-    </td>
-    <td>
-      <h1><strong>🏗️ Tech Stack</strong></h1>
-      <img 
-      src="https://skillicons.dev/icons?i=androidstudio,vscode,kotlin,flutter,dart,firebase,html,css,javascript,github,git" />
-    </td>
-  </tr>
-</table>
-
----
 
 <h1><strong>🌟 Github Insights</strong></h1>
 
@@ -51,3 +35,11 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAboSeada&layout=pie&theme=radical" alt="Top Langs" />
 </a>
 </div>
+
+
+## My GitHub Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedAboSeada/MohamedAboSeada/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohamedAboSeada/MohamedAboSeada/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MohamedAboSeada/MohamedAboSeada/output/github-snake.svg">
+</picture>
