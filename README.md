@@ -30,7 +30,11 @@
     <td width="60%">
       <h1><strong>🛠️ Tech Stack & Tools</strong></h1>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,js,html,css,react,androidstudio,vscode,firebase,supabase,git,github" />
+        <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,js,html,css,react" />
+      </a>
+      <br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=androidstudio,vscode,firebase,supabase,git,github" />
       </a>
     </td>
     
