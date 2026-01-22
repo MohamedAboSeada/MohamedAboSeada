@@ -45,13 +45,9 @@
 <br clear="all" />
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
+ 
   <tr>
-    <td align="center" colspan="3">
-      <h1><strong>🌟 Github Insights</strong></h1>
-      <br />
-    </td>
-  </tr>
-  <tr>
+  <h1><strong>🌟 Github Insights</strong></h1>
     <td width="33.3%" align="center" valign="top">
       <a href="https://github.com/MohamedAboSeada">
         <img width="100%" src="https://github-readme-stats.vercel.app/api?username=MohamedAboSeada&theme=radical&show_icons=true&hide_border=false" />
