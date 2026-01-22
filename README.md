@@ -23,7 +23,6 @@
   </tr>
 </table>
 
-<br clear="all" />
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
@@ -42,7 +41,6 @@
   </tr>
 </table>
 
-<br clear="all" />
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
  
@@ -66,7 +64,6 @@
   </tr>
 </table>
 
-<br clear="all"/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MohamedAboSeada/MohamedAboSeada/output/github-snake.svg" width="100%" alt="snake gif" />
