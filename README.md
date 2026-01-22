@@ -24,7 +24,7 @@
 
 ---
 
-<table border="0">
+<table width="100%" border="0">
   <tr>
     <td width="200px">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
@@ -41,7 +41,7 @@
 
 <h1><strong>🌟 Github Insights</strong></h1>
 
-<center>
+<div align="center">
 <a href="https://github.com/MohamedAboSeada/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedAboSeada&theme=radical" />
 </a>
@@ -50,3 +50,4 @@
   height="150"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAboSeada&layout=pie&theme=radical" alt="Top Langs" />
 </a>
+</div>
