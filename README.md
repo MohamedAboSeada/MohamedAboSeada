@@ -3,7 +3,7 @@
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="70%" valign="top">
+    <td width="60%" valign="top">
       <h1><strong>🙋‍♂️ About Me</strong></h1>
       <p align="justify">
         <b>CS Graduate & Flutter Developer</b> focused on building clean, scalable front-ends with a strong UI/UX foundation. I prioritize software engineering principles over specific stacks, allowing me to adapt quickly and solve complex problems with efficient code.
@@ -17,7 +17,7 @@
         </a>
       </div>
     </td>
-    <td width="30%" align="right" valign="top">
+    <td width="40%" align="right" valign="top">
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZzNDA1ZW0xdWNqNmpxeG5qb2c3Z2wwanB2cWhvdTh4czc1OGxwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif" width="100%" style="max-width:250px;" />
     </td>
   </tr>
@@ -56,15 +56,12 @@
         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAboSeada&theme=radical&hide_border=false" />
       </a>
     </td>
-    <td width="11.3%" align="center" valign="top">
+    <td width="22.3%" align="center" valign="top">
       <a href="https://github.com/MohamedAboSeada">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAboSeada&layout=pie&theme=radical&hide_border=false" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAboSeada&layout=pie&theme=radical&hide_border=true" />
       </a>
     </td>
   </tr>
 </table>
 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MohamedAboSeada/MohamedAboSeada/output/github-snake.svg" width="100%" alt="snake gif" />
-</div>
+![snake](https://raw.githubusercontent.com/MohamedAboSeada/MohamedAboSeada/output/github-contribution-grid-snake.svg)
