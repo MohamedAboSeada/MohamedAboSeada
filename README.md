@@ -22,8 +22,25 @@
   </tr>
 </table>
 
+<table border="0">
+  <tr>
+  <td width="40%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+    </td>
+    <td width="60%">
+      <h1><strong>🛠️ Tech Stack & Tools</strong></h1>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,js,html,css,react,androidstudio,vscode,firebase,supabase,git,github" />
+      </a>
+    </td>
+    
+  </tr>
+</table>
+
 
 <h1><strong>🌟 Github Insights</strong></h1>
+
+
 
 <div align="center">
 <a href="https://github.com/MohamedAboSeada/github-readme-stats">
@@ -36,7 +53,6 @@
 </a>
 </div>
 
-<br>
-<h1><strong>🎮 Contribution Grid</strong></h1>
+<br />
 
-![snake](https://github.com/MohamedAboSeada/MohamedAboSeada/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/MohamedAboSeada/MohamedAboSeada/output/github-snake.svg)
