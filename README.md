@@ -24,10 +24,10 @@
 
 <table border="0">
   <tr>
-  <td width="40%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+  <td width="50%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
     </td>
-    <td width="60%">
+    <td width="50%">
       <h1><strong>🛠️ Tech Stack & Tools</strong></h1>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,js,html,css,react" />
@@ -42,20 +42,19 @@
 </table>
 
 
-<h1><strong>🌟 Github Insights</strong></h1>
-
-
-
-<div align="center">
-<a href="https://github.com/MohamedAboSeada/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedAboSeada&theme=radical" />
-</a>
-<a href="https://github.com/MohamedAboSeada/github-readme-stats">
-  <img align="center" 
-  height="200"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAboSeada&layout=pie&theme=radical" alt="Top Langs" />
-</a>
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td align="center">
+      <h1><strong>🌟 Github Insights</strong></h1>
+      <a href="https://github.com/MohamedAboSeada/github-readme-stats">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedAboSeada&theme=radical" />
+      </a>
+      <a href="https://github.com/MohamedAboSeada/github-readme-stats">
+        <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAboSeada&layout=pie&theme=radical" alt="Top Langs" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br />
 
