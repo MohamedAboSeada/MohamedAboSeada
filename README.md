@@ -1,6 +1,5 @@
 <img src="./assets/poster.png" width="100%" />
 
-<br />
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
@@ -47,20 +46,31 @@
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td align="center">
+    <td align="center" colspan="3">
       <h1><strong>🌟 Github Insights</strong></h1>
       <br />
-      <a href="https://github.com/MohamedAboSeada/github-readme-stats">
-        <img height="200" src="https://github-readme-stats.vercel.app/api?username=MohamedAboSeada&theme=radical" />
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a href="https://github.com/MohamedAboSeada">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=MohamedAboSeada&theme=radical&show_icons=true&hide_border=false" />
       </a>
-      <a href="https://github.com/MohamedAboSeada/github-readme-stats">
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAboSeada&layout=pie&theme=radical" alt="Top Langs" />
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a href="https://github.com/MohamedAboSeada">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAboSeada&theme=radical&hide_border=false" />
+      </a>
+    </td>
+    <td width="11.3%" align="center" valign="top">
+      <a href="https://github.com/MohamedAboSeada">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAboSeada&layout=pie&theme=radical&hide_border=false" />
       </a>
     </td>
   </tr>
 </table>
 
-<br />
+<br clear="all"/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MohamedAboSeada/MohamedAboSeada/output/github-snake.svg" width="100%" alt="snake gif" />
