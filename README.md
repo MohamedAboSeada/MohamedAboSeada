@@ -24,6 +24,8 @@
 </table>
 
 
+
+
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="40%" align="left" valign="center">
@@ -35,7 +37,7 @@
         <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,js,html,css,react" />
       </a>
       <p></p> <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=androidstudio,vscode,firebase,supabase,git,github" />
+        <img src="https://skillicons.dev/icons?i=androidstudio,vscode,gradle,obsidian,firebase,supabase,git,github" />
       </a>
     </td>
   </tr>
@@ -43,15 +45,14 @@
 
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
- 
   <tr>
   <h1><strong>🌟 Github Insights</strong></h1>
-    <td width="33.3%" align="center" valign="top">
+    <td width="55%" align="center" valign="top">
       <a href="https://github.com/MohamedAboSeada">
-        <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OW44ZTd0Nmp4ZnRzbXB5ZXRzaDAzdDMxMXd0M3hwMXB1czRoN3BhYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tkvkS212Iz2eovb9Ft/giphy.gif" />
+        <img width="100%" src="https://media1.tenor.com/m/3diN3PI4wGcAAAAC/pensa-memes.gif" />
       </a>
     </td>
-    <td width="22.3%" align="center" valign="top">
+    <td width="45%" align="center" valign="top">
       <a href="https://github.com/MohamedAboSeada">
         <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAboSeada&layout=pie&theme=radical&hide_border=true" />
       </a>
