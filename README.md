@@ -1,4 +1,4 @@
-<img src="./assets/poster.png" width="100%" />
+<img src="./assets/poster.gif" width="100%" />
 
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
