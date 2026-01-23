@@ -68,21 +68,7 @@
   </tr>
 </table>
 
-<table border="0" width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-  <h1><strong>🌟 Github Insights</strong></h1>
-    <td width="55%" align="center" valign="top">
-      <a href="https://github.com/MohamedAboSeada">
-        <img width="100%" src="https://media1.tenor.com/m/3diN3PI4wGcAAAAC/pensa-memes.gif" />
-      </a>
-    </td>
-    <td width="45%" align="center" valign="top">
-      <a href="https://github.com/MohamedAboSeada">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAboSeada&layout=pie&theme=radical&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+<h1><strong> Contribution Grid</strong></h1>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedAboSeada/MohamedAboSeada/output/pacman-contribution-graph-dark.svg">
