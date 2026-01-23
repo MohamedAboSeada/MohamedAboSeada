@@ -10,10 +10,13 @@
       </p>
       <div align="left">
         <a href="https://www.linkedin.com/in/mohamed-abo-seada-0b8171166/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
+        </a>
+        <a href="https://web.facebook.com/profile.php?id=100047995965531" target="_blank">
+          <img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" alt="Facebook badge"/>
         </a>
         <a href="mailto:mohamedabdelatyaboseada@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+          <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white" alt="Gmail badge"/>
         </a>
       </div>
     </td>
@@ -68,7 +71,19 @@
   </tr>
 </table>
 
-<h1><strong> Contribution Grid</strong></h1>
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+  <h1><strong>🌟 Github Insights</strong></h1>
+    <td width="70%" valign="top">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedAboSeada&theme=dracula" alt="Profile details badge"/>
+    </td>
+    <td width="45%" align="center" valign="top">
+      <a href="https://github.com/MohamedAboSeada">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAboSeada&layout=pie&theme=radical&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedAboSeada/MohamedAboSeada/output/pacman-contribution-graph-dark.svg">
