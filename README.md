@@ -42,11 +42,7 @@
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td colspan="2">
-      <h1><strong>🚀 Top Projects</strong></h1>
-    </td>
-  </tr>
-  <tr>
+    <h1><strong>🚀 Top Projects</strong></h1>
     <td width="50%" align="center">
       <a href="https://github.com/MohamedAboSeada/MorataStore">
         <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedAboSeada&repo=MorataStore&theme=radical&show_owner=true" />
