@@ -45,42 +45,9 @@
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <h1><strong>🚀 Top Projects</strong></h1>
-    <td width="50%" align="center">
-      <a href="https://github.com/MohamedAboSeada/MorataStore">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedAboSeada&repo=MorataStore&theme=radical&show_owner=true" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/MohamedAboSeada/moxxx_webiste">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedAboSeada&repo=moxxx_webiste&theme=radical&show_owner=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/MohamedAboSeada/Scolar">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedAboSeada&repo=Scolar&theme=radical&show_owner=true" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/MohamedAboSeada/Leon_template">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedAboSeada&repo=Leon_template&theme=radical&show_owner=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<table border="0" width="100%" cellpadding="0" cellspacing="0">
-  <tr>
   <h1><strong>🌟 Github Insights</strong></h1>
-    <td width="70%" valign="top">
+    <td width="100%" valign="top">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedAboSeada&theme=dracula" alt="Profile details badge"/>
-    </td>
-    <td width="45%" align="center" valign="top">
-      <a href="https://github.com/MohamedAboSeada">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAboSeada&layout=pie&theme=radical&hide_border=true" />
-      </a>
     </td>
   </tr>
 </table>
