@@ -28,7 +28,7 @@
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="100%" align="left" valign="center">
+    <td width="40%" align="left" valign="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" style="max-width:300px;" />
     </td>
     <td width="60%" valign="top">
@@ -45,7 +45,7 @@
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
-  <h1><strong>🌟 Github Insights</strong></h1>
+    <h1><strong>🌟 Github Insights</strong></h1>
     <td width="100%" valign="top">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedAboSeada&theme=dracula" alt="Profile details badge"/>
     </td>
